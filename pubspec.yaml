@@ -12,7 +12,7 @@ dependencies:
   barcode_image: ">=2.0.2 <3.0.0"
   fluetooth:
     git:
-      url: https://github.com/MyInOut/fluetooth
+      url: https://github.com/MyInOut/fluetooth_new
   flutter:
     sdk: flutter
   image: ">=4.3.0 <5.0.0"
