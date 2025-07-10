@@ -10,13 +10,13 @@ environment:
 
 dependencies:
   barcode_image: ">=2.0.2 <3.0.0"
+  fluetooth:
+    git:
+      url: https://github.com/MyInOut/fluetooth
   flutter:
     sdk: flutter
   image: ">=4.3.0 <5.0.0"
   zxing_lib: 1.1.2
-  fluetooth_plus:
-    git:
-      url: https://github.com/MyInOut/fluetooth_plus
 
 dev_dependencies:
   flutter_test:
