@@ -7,6 +7,8 @@ import 'package:flutter/services.dart';
 import 'package:youprint/src/receipt/receipt_image.dart';
 import 'package:youprint/youprint.dart';
 
+export 'package:fluetooth/fluetooth.dart' show FluetoothDevice;
+
 enum PaperSize { mm58, mm80 }
 
 class Youprint {
